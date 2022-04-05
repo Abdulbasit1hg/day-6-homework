@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(234, 238, 238);
+}
+
+
+.num{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(41, 51, 48);
+}
